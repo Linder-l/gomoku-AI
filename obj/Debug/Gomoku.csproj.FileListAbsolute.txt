@@ -1,0 +1,24 @@
+C:\Users\didie\RiderProjects\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\didie\RiderProjects\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\didie\RiderProjects\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\didie\RiderProjects\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\didie\RiderProjects\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\didie\RiderProjects\Gomoku\obj\Debug\Gomoku.pdb
+C:\Users\didie\Documents\.NET\gomoku\bin\Debug\Gomoku.exe
+C:\Users\didie\Documents\.NET\gomoku\bin\Debug\Gomoku.pdb
+C:\Users\didie\Documents\.NET\gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\didie\Documents\.NET\gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\.NET\gomoku\obj\Debug\Gomoku.exe
+C:\Users\didie\Documents\.NET\gomoku\obj\Debug\Gomoku.pdb
+C:\Users\Loicl\Documents\gomoku\bin\Debug\Gomoku.exe
+C:\Users\Loicl\Documents\gomoku\bin\Debug\Gomoku.pdb
+C:\Users\Loicl\Documents\gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\Loicl\Documents\gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\Loicl\Documents\gomoku\obj\Debug\Gomoku.exe
+C:\Users\Loicl\Documents\gomoku\obj\Debug\Gomoku.pdb
+C:\Users\Loicl\Documents\test\gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\Loicl\Documents\test\gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\Loicl\Documents\test\gomoku\bin\Debug\pbrain-[B5][IAR] Gomoku loic.linder@epitech.eu.exe
+C:\Users\Loicl\Documents\test\gomoku\bin\Debug\pbrain-[B5][IAR] Gomoku loic.linder@epitech.eu.pdb
+C:\Users\Loicl\Documents\test\gomoku\obj\Debug\pbrain-[B5][IAR] Gomoku loic.linder@epitech.eu.exe
+C:\Users\Loicl\Documents\test\gomoku\obj\Debug\pbrain-[B5][IAR] Gomoku loic.linder@epitech.eu.pdb
