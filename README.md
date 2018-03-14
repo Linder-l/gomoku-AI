@@ -1,2 +1,2 @@
 # gomoku-AI
-Gomoku AI made for piskvork interface
+Gomoku AI made for piskvork interface.
